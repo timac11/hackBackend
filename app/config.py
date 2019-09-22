@@ -1,0 +1,11 @@
+DATABASE='messenger'
+USER_NAME='postgres'
+PASSWORD='52415'
+
+S3_ENDPOINT_URL='http://hb.bizmrg.com'
+S3_ACCESS_ID='vppnYJox5HP1p7mBZxipxG'
+S3_SECRET_KEY='b51rhKr8QEcgTHe8FKu15f9kKQYxmHTfBkVgtD8X3pa9'
+S3_BUCKET_NAME='2018-sokolov-aleksandr-bucket'
+
+VK_APP_ID ='6770787'
+VK_APP_SECRET ='oXFBpEnJMlFWX5jNQ9Yp'
